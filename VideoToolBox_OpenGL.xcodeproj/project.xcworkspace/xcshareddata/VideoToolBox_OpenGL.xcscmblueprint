@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6D150137D71F8BFD9401E5F8502F1E9A364F060E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "213881C4BE3762E845BD783BA9ADEB0AD8EB24E4" : 0,
+    "6D150137D71F8BFD9401E5F8502F1E9A364F060E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE1A739F-95E8-481E-9225-5EC444E94F32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "213881C4BE3762E845BD783BA9ADEB0AD8EB24E4" : "..",
+    "6D150137D71F8BFD9401E5F8502F1E9A364F060E" : "core\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VideoToolBox_OpenGL",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS_VideoPlayer_Work_In_Progress\/VideoToolBox_OpenGL.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Plumzi\/pz_disney_poc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "213881C4BE3762E845BD783BA9ADEB0AD8EB24E4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Plumzi\/pz-core",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D150137D71F8BFD9401E5F8502F1E9A364F060E"
+    }
+  ]
+}
